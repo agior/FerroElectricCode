@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ali", "Ali.vcxproj", "{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Distribution|x64 = Distribution|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}.Debug|x64.ActiveCfg = Debug|x64
+		{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}.Debug|x64.Build.0 = Debug|x64
+		{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}.Distribution|x64.ActiveCfg = Distribution|x64
+		{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}.Distribution|x64.Build.0 = Distribution|x64
+		{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}.Release|x64.ActiveCfg = Release|x64
+		{A45E6D95-0D4E-43F1-90B2-59A886C80AEC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BD9B6F-C346-49C1-9CA7-045DE6C9F692}
+	EndGlobalSection
+EndGlobal
